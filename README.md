@@ -1,11 +1,6 @@
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/tymasdost/count.svg" />
 
-
-### <strong>How to reach me:</strong>
-
-<img src="https://img.shields.io/badge/wowkarjara@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="wowkarjara@gmail.com">   <a  href="https://www.instagram.com/proste.lucky/"><img src="https://img.shields.io/badge/@proste.lucky-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
-
 ### Here are some ideas to help you get started:
 
 - 🔭 I’m <strong>Student</strong>
