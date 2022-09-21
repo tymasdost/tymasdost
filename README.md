@@ -1,7 +1,7 @@
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/tymasdost/count.svg" />
 
-### Here are some ideas to help you get started:
+
 
 - 🔭 I’m <strong>Student</strong>
 - 🌱 I’m currently learning <strong>JS</strong>
