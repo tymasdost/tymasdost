@@ -3,14 +3,14 @@
 
 
 
-- 🔭 I’m <strong>Student</strong>
-- 🌱 I’m currently learning <strong>JS</strong>
-- ⚡ Fun fact: Money makes money
-- 🏫 School: SPSMB je cesta guys <3
+- 🔭 I’m <strong>Backend Developer</strong>
+- 🌱 I’m currently learning <strong>React | Lue</strong>
+- 🎯 Focusing on <strong>Web development</strong>
+- 💫 Living in <strong>Metaverse</strong>
 
 ### Tools I work upon : 🛠
 
-<img src="https://img.shields.io/badge/react%20-%2300599C.svg?&style=for-the-badge&logo=react%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  <img src="	https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 
 <img src="https://github-readme-stats.vercel.app/api?username=tymasdost&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
