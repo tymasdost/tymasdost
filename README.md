@@ -2,11 +2,7 @@
   <img src="https://profile-counter.glitch.me/tymasdost/count.svg" />
 
 
-
-- 🔭 I’m <strong>Backend Developer</strong>
-- 🌱 I’m currently learning <strong>React | Lue</strong>
-- 🎯 Focusing on <strong>Web development</strong>
-- 💫 Living in <strong>Metaverse</strong>
+Ano, jsem to já. Tomáš Lupič Mrdka, a včera mě na tomto mííííííístěěě oběsil Psychopat Bejr, kdy jsem byl následně okamžitě přesunut do peklaaaa.
 
 ### Tools I work upon : 🛠
 
