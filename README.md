@@ -6,13 +6,15 @@
 
 <h1 align="center">Wassup 👋, I'm Jaroslav</h1>
 
-<h3 align="center">Junior full stack developer passionate mainly in Python.</h3>
+<h3 align="center">Junior full stack developer</h3>
 
 - 💬 Ask me about **python, C++, JS, TS, node**
 
 - 📫 How to reach me **jaroslavnovy22@gmail.com**
 
 - ⚡ Fun fact **Sometimes I do video gamin 🎮**
+
+- 🔮 Haxagon **Finalist**
 
 - 📚 I'm learning **C#, Networking**
 
