@@ -1,6 +1,6 @@
 ### Profile Views
 <img src="https://profile-counter.glitch.me/tymasdost/count.svg" />
-
+<img src="https://media.tenor.com/NIeG-ysn85MAAAAi/tf2-engineer-dancing.gif" width="100">
 <h1 align="center">Wassup 👋, I'm Jaroslav</h1>
 
 <h3 align="center">Co-CEO & Developer at Basad | Junior Full Stack Developer</h3>
